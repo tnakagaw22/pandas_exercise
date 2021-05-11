@@ -1,6 +1,6 @@
 import pandas as pd
 
-users = pd.read_csv('data.txt', sep='|')
+users = pd.read_csv('1_knowing_data_occupation/data.txt', sep='|')
 users = users.set_index('user_id', drop=True)
 
 # users = pd.read_csv('https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user',
