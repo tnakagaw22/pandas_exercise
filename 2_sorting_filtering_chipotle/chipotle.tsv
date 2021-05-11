@@ -4394,7 +4394,7 @@ order_id	quantity	item_name	choice_description	item_price
 1752	1	Chicken Bowl	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream]]	$8.75
 1753	1	Canned Soft Drink	[Coke]	$1.25
 1753	1	Steak Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream, Cheese]]	$9.25
-1753	1	Chips and Guacamole	NULL	$4.45
+1753	1	Chips and Guacamole	NdULL	$4.45
 1754	1	Chicken Bowl	[Fresh Tomato Salsa, [Black Beans, Rice, Sour Cream, Cheese, Guacamole, Lettuce]]	$11.25
 1754	1	Canned Soft Drink	[Sprite]	$1.25
 1755	1	Chicken Bowl	[Fresh Tomato Salsa, [Rice, Black Beans, Pinto Beans, Cheese]]	$8.75
