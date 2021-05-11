@@ -1,5 +1,5 @@
 order_id	quantity	item_name	choice_description	item_price
-1	1d	Chips and Fresh Tomato Salsa	NULL	$2.39
+1	1	Chips and Fresh Tomato Salsa	NULL	$2.39
 1	1	Izze	[Clementine]	$3.39
 1	1	Nantucket Nectar	[Apple]	$3.39
 1	1	Chips and Tomatillo-Green Chili Salsa	NULL	$2.39
@@ -9,7 +9,7 @@ order_id	quantity	item_name	choice_description	item_price
 4	1	Steak Burrito	[Tomatillo Red Chili Salsa, [Fajita Vegetables, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.75
 4	1	Steak Soft Tacos	[Tomatillo Green Chili Salsa, [Pinto Beans, Cheese, Sour Cream, Lettuce]]	$9.25
 5	1	Steak Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$9.25
-5	1	Chips anfd Guacamole	NULL	$4.45
+5	1	Chips and Guacamole	NULL	$4.45
 6	1	Chicken Crispy Tacos	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream]]	$8.75
 6	1	Chicken Soft Tacos	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75
 7	1	Chicken Bowl	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole]]	$11.25
